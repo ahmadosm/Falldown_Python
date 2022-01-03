@@ -3,7 +3,7 @@ import sys
 import random
 
 #Ahmad Osman
-#Copyrights all reserver to Ahmadosm_projects
+#Copyrights all reserved to Ahmadosm_projects
 #Further inquiries ahmadosmwork@gmail.com
 
 # Initalizes screen, clock and font
